@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GithubConnectV2.0</string>
+    <string name="title_splash_screen">Github Connect</string>
+    <string name="desc_splash">Find your teammate to build project</string>
+    <string name="about">About</string>
+    <string name="setting">Setting</string>
+    <string name="languages">Languages</string>
+    <string name="search_user">Search User</string>
+    <string name="item_name">item_name</string>
+    <string name="item_company">item_company</string>
+    <string name="instruction_sentence">Tap search icon to find user</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Followers</string>
+    <string name="item_name_detail">name</string>
+    <string name="item_username">username</string>
+    <string name="item_company_detail">company</string>
+    <string name="null_value">Unknown</string>
+</resources>
